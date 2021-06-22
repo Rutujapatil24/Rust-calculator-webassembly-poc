@@ -1,0 +1,15 @@
+{
+  "name": "calculate",
+  "collaborators": [
+    "rutuja.patil"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "calculate_bg.wasm",
+    "calculate.js",
+    "calculate.d.ts"
+  ],
+  "module": "calculate.js",
+  "types": "calculate.d.ts",
+  "sideEffects": false
+}
